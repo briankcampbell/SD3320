@@ -1,0 +1,43 @@
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe.config
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.vbprojResolveAssemblyReference.cache
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.vbproj.GenerateResource.Cache
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.xml
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.pdb
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.xml
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.exe
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.pdb
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.frmWidgetCalc.resources
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe.config
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.exe
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.xml
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.pdb
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.pdb
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.xml
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.vbprojResolveAssemblyReference.cache
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.frmWidgetCalc.resources
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Biarre\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.vbproj.GenerateResource.Cache
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe.config
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.exe
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.xml
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.pdb
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.pdb
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.xml
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.frmWidgetCalc.resources
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Biarre\OneDrive\3) Programming in Visual Basic - SD3320\Visual Basic 2015\Projects\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.vbproj.GenerateResource.Cache
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe.config
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.exe
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.xml
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.pdb
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.frmWidgetCalc.resources
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.vbproj.GenerateResource.Cache
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.exe
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.pdb
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\bin\Debug\Module2_Lab1_Widget.xml
+C:\Users\Biarre\Google Drive\ITT-Tech\Classes\3) Programming in Visual Basic - SD3320 - Thursday\Module 2\Module2_Lab1_Widget\Module2_Lab1_Widget\obj\Debug\Module2_Lab1_Widget.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\brian\AppData\Local\Temporary Projects\Module2_Lab1_BarCode\bin\Debug\Module2_Lab1_BarCode.exe.config
+C:\Users\brian\OneDrive\SD3320 Programming in Visual Basic\Visual Basic 2015\Projects\Module2_Lab1_BarCode\Module2_Lab1_BarCode\bin\Debug\Module2_Lab1_BarCode.exe.config
