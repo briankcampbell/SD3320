@@ -8,6 +8,8 @@
     Dim dblPhysical As Double                               ' Holds input of the charges for Physical Rehab.
     Dim dblMiscCharges As Double                            ' Holds the total of the misc charges.
     Dim dblTotalCharges As Double                           ' Holds the total of all charges.
+    Dim formClear As Boolean                                ' Holds status of form cleared.
+
 
     Private Sub btnCalcCharges_Click(sender As Object, e As EventArgs) Handles btnCalcCharges.Click
         If (ValidateInputFields()) Then
@@ -42,38 +44,28 @@
             lblTotalCostCalc.Text = dblTotalCharges.ToString("C2")
         End If
     End Sub
-
     Private Sub btnClearForm_Click(sender As Object, e As EventArgs) Handles btnClearForm.Click
+        formClear = True
         txtLengthStay.ResetText()
         txtMedication.ResetText()
-            txtSurgCharges.ResetText()
-            txtLabFees.ResetText()
-            txtPhysical.ResetText()
-            lblTotalCostCalc.Text = ""
+        txtSurgCharges.ResetText()
+        txtLabFees.ResetText()
+        txtPhysical.ResetText()
+        lblTotalCostCalc.Text = ""
         txtLengthStay.Focus()
+        formClear = False
     End Sub
-
-
-    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
-        End
-    End Sub
-
-
     Function CalcStayCharges(ByVal intLengthStay As Integer, ByRef intROOMCHARGE As Double) As Double
         ' Calculates and returns the base charges for the hospital stay. 
         ' This Is computed as $350 times the number of days in the hospital.
         dblTotalRoomCharges = Double.Parse(intROOMCHARGE * intLengthStay)
         Return dblTotalRoomCharges
     End Function
-
-
     Function CalcMiscCharges(ByVal dblMedication, ByVal dblSurgical, ByVal dblLabFees, ByVal dblPhysical) As Double
         ' Calculates and returns the total of the medication, surgical, lab, and physical rehabilitation charges.
         dblMiscCharges = dblMedication + dblSurgical + dblLabFees + dblPhysical
         Return dblMiscCharges
     End Function
-
-
     Function CalcTotalCharges(ByVal dblTotalRoomCharges, ByVal dblMiscCharges)
         ' Calculates and returns the total charges.
         dblTotalCharges = dblTotalRoomCharges + dblMiscCharges
@@ -89,7 +81,6 @@
             End While
         Return True
     End Function
-
     Function ValidateInputFields() As Boolean
         Dim lstTxtBoxes As New List(Of TextBox) _
             From {txtLengthStay, txtMedication, txtSurgCharges, txtLabFees, txtPhysical}
@@ -104,14 +95,10 @@
         Next
         Return True
     End Function
-
-
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Me.Show()
         txtLengthStay.Focus()
     End Sub
-
-
     Private Function CheckInput(ByVal txtBox As TextBox)
         Dim input As String = txtBox.Text
         Dim strNegNumError = "Must not be a negative number."
@@ -136,40 +123,36 @@
         End If
         Return strNumEntError
     End Function
-
-
     Private Sub SelectFocus(ByVal txtBox As TextBox)
         txtBox.Focus()
         txtBox.SelectAll()
     End Sub
-
     Private Sub txtLengthStay_TextChanged(sender As Object, e As EventArgs) Handles txtLengthStay.TextChanged
-        While Not btnClearForm.Enabled
-        End While
-        ValidateInputField(txtLengthStay)
+        If formClear.Equals(False) Then
+            ValidateInputField(txtLengthStay)
+        End If
     End Sub
-
     Private Sub txtMedication_TextChanged(sender As Object, e As EventArgs) Handles txtMedication.TextChanged
-        While Not btnClearForm.Enabled
-        End While
-        ValidateInputField(txtMedication)
+        If formClear.Equals(False) Then
+            ValidateInputField(txtMedication)
+        End If
     End Sub
-
     Private Sub txtSurgCharges_TextChanged(sender As Object, e As EventArgs) Handles txtSurgCharges.TextChanged
-        While Not btnClearForm.Enabled
-        End While
-        ValidateInputField(txtSurgCharges)
+        If formClear.Equals(False) Then
+            ValidateInputField(txtSurgCharges)
+        End If
     End Sub
-
     Private Sub txtLabFees_TextChanged(sender As Object, e As EventArgs) Handles txtLabFees.TextChanged
-        While Not btnClearForm.Enabled
-        End While
-        ValidateInputField(txtLabFees)
+        If formClear.Equals(False) Then
+            ValidateInputField(txtLabFees)
+        End If
     End Sub
-
     Private Sub txtPhysical_TextChanged(sender As Object, e As EventArgs) Handles txtPhysical.TextChanged
-        While btnClearForm.Enabled
-        End While
-        ValidateInputField(txtPhysical)
+        If formClear.Equals(False) Then
+            ValidateInputField(txtPhysical)
+        End If
+    End Sub
+    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+        End
     End Sub
 End Class
