@@ -1,7 +1,12 @@
 ﻿Public Class Form1
+    Dim intSpools As Integer                                ' Holds value for spools.
+
     Private Function GetInStock()
         'Displays an input box asking the user To enter the number Of spools In stock. 
         'The Function() should Return the value entered by the user.
+
+        intSpools = CInt(InputBox("Enter Number of Stores.", "Number of Stores = " &
+                                         intSpools.ToString()))
 
     End Function
     Private Function ReadyToShip()
